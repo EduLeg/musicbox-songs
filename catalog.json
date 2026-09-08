@@ -1,0 +1,13 @@
+{
+  "seq": 1,
+  "volume": 80,
+  "tz": "",
+  "quiet": null,
+  "play": {
+    "id": "",
+    "n": 0
+  },
+  "fw": null,
+  "songs": [],
+  "max_songs": 30
+}
