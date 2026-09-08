@@ -1,5 +1,5 @@
 {
-  "seq": 6,
+  "seq": 7,
   "volume": 80,
   "tz": "",
   "quiet": null,
@@ -8,10 +8,10 @@
     "n": 1
   },
   "fw": {
-    "ver": 2,
-    "file": "firmware-2.bin",
-    "size": 1796608,
-    "sha256": "ac288d79560f9af707e8e55e7fbbe5bcf46f9711bf41bdad3b77741ae16693ba"
+    "ver": 3,
+    "file": "firmware-3.bin",
+    "size": 1796944,
+    "sha256": "56b621ee650d94bac31e8a7b4a4666c3828cbaf5fbc085fbfa5e5c94fb8d17b9"
   },
   "songs": [
     {
