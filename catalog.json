@@ -1,5 +1,5 @@
 {
-  "seq": 1,
+  "seq": 2,
   "volume": 80,
   "tz": "",
   "quiet": null,
@@ -8,6 +8,14 @@
     "n": 0
   },
   "fw": null,
-  "songs": [],
+  "songs": [
+    {
+      "id": "02b623722f",
+      "title": "Ode to Joy",
+      "size": 754,
+      "sha256": "02b623722f1757440b87119e13f423e0851a2f2476fb3fe7ec749fc64a38b3bf",
+      "added": "2026-09-08T21:44:41+00:00"
+    }
+  ],
   "max_songs": 30
 }
