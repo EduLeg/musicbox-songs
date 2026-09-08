@@ -1,5 +1,5 @@
 {
-  "seq": 2,
+  "seq": 3,
   "volume": 80,
   "tz": "",
   "quiet": null,
@@ -15,6 +15,13 @@
       "size": 754,
       "sha256": "02b623722f1757440b87119e13f423e0851a2f2476fb3fe7ec749fc64a38b3bf",
       "added": "2026-09-08T21:44:41+00:00"
+    },
+    {
+      "id": "590e81e368",
+      "title": "Twinkle Twinkle",
+      "size": 804,
+      "sha256": "590e81e368ad91612c8f47e0109b2adc2b9f7a93ce8a55af5b484f20c0272c84",
+      "added": "2026-09-08T22:01:46+00:00"
     }
   ],
   "max_songs": 30
