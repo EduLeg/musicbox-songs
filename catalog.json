@@ -1,11 +1,11 @@
 {
-  "seq": 3,
+  "seq": 4,
   "volume": 80,
   "tz": "",
   "quiet": null,
   "play": {
-    "id": "",
-    "n": 0
+    "id": "590e81e368",
+    "n": 1
   },
   "fw": null,
   "songs": [
