@@ -1,5 +1,5 @@
 {
-  "seq": 28,
+  "seq": 29,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
@@ -62,6 +62,13 @@
       "size": 1444,
       "sha256": "feb402ab9e8815040f8c36ee4a719cd84d8b1b1ea816eb14e4fff235923058cc",
       "added": "2026-09-09T05:12:32+00:00"
+    },
+    {
+      "id": "ba37eb87f1",
+      "title": "Despacito",
+      "size": 3794,
+      "sha256": "ba37eb87f1485827b70df0aa0debcb74b6140b9fba9c2fbadd81054882c299b5",
+      "added": "2026-09-09T05:27:10+00:00"
     }
   ],
   "max_songs": 30
