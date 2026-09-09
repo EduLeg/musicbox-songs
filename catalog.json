@@ -1,11 +1,11 @@
 {
-  "seq": 23,
+  "seq": 24,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
   "play": {
     "id": "6a1af2fe2f",
-    "n": 6
+    "n": 7
   },
   "fw": {
     "ver": 6,
