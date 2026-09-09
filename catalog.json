@@ -1,5 +1,5 @@
 {
-  "seq": 17,
+  "seq": 18,
   "volume": 60,
   "tz": "",
   "quiet": null,
@@ -48,6 +48,13 @@
       "size": 16844,
       "sha256": "92ab3c4cb82c80144054058d726fd0210d4cfd5aee64a626edb57bc7f6a58865",
       "added": "2026-09-09T02:00:46+00:00"
+    },
+    {
+      "id": "31abef3fac",
+      "title": "Greensleeves",
+      "size": 3744,
+      "sha256": "31abef3faccba41b96c1b24e0e5035dd4ebc88dd4305358fe5a34f3aa1073f04",
+      "added": "2026-09-09T02:06:08+00:00"
     }
   ],
   "max_songs": 30
