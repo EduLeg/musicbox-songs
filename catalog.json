@@ -1,5 +1,5 @@
 {
-  "seq": 30,
+  "seq": 31,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
@@ -48,13 +48,6 @@
       "size": 3744,
       "sha256": "31abef3faccba41b96c1b24e0e5035dd4ebc88dd4305358fe5a34f3aa1073f04",
       "added": "2026-09-09T02:06:08+00:00"
-    },
-    {
-      "id": "feb402ab9e",
-      "title": "Disc check loop",
-      "size": 1444,
-      "sha256": "feb402ab9e8815040f8c36ee4a719cd84d8b1b1ea816eb14e4fff235923058cc",
-      "added": "2026-09-09T05:12:32+00:00"
     },
     {
       "id": "ba37eb87f1",
