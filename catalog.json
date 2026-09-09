@@ -1,5 +1,5 @@
 {
-  "seq": 29,
+  "seq": 30,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
@@ -48,13 +48,6 @@
       "size": 3744,
       "sha256": "31abef3faccba41b96c1b24e0e5035dd4ebc88dd4305358fe5a34f3aa1073f04",
       "added": "2026-09-09T02:06:08+00:00"
-    },
-    {
-      "id": "6a1af2fe2f",
-      "title": "Disc check",
-      "size": 124,
-      "sha256": "6a1af2fe2f2feb7ed90a987bfdc280726f57e396f5390fceb5e601566ca960f3",
-      "added": "2026-09-09T02:18:08+00:00"
     },
     {
       "id": "feb402ab9e",
