@@ -1,7 +1,7 @@
 {
-  "seq": 19,
+  "seq": 20,
   "volume": 60,
-  "tz": "",
+  "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
   "play": {
     "id": "f4023c0410",
