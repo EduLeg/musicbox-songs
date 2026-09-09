@@ -1,5 +1,5 @@
 {
-  "seq": 12,
+  "seq": 13,
   "volume": 80,
   "tz": "",
   "quiet": null,
@@ -34,6 +34,13 @@
       "size": 10124,
       "sha256": "f4023c0410e3e304a23ad8fa503077d29c8e449dca6dda1e9887dd2165b659cb",
       "added": "2026-09-08T22:34:54+00:00"
+    },
+    {
+      "id": "3f2cb65db8",
+      "title": "Voice test",
+      "size": 364,
+      "sha256": "3f2cb65db8bd9a1e57f24249ad43dfefc0b377b6def0928c00a97ceda12b653e",
+      "added": "2026-09-09T01:49:11+00:00"
     }
   ],
   "max_songs": 30
