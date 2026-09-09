@@ -1,5 +1,5 @@
 {
-  "seq": 15,
+  "seq": 16,
   "volume": 80,
   "tz": "",
   "quiet": null,
@@ -41,6 +41,13 @@
       "size": 364,
       "sha256": "3f2cb65db8bd9a1e57f24249ad43dfefc0b377b6def0928c00a97ceda12b653e",
       "added": "2026-09-09T01:49:11+00:00"
+    },
+    {
+      "id": "92ab3c4cb8",
+      "title": "Here Comes the Sun",
+      "size": 16844,
+      "sha256": "92ab3c4cb82c80144054058d726fd0210d4cfd5aee64a626edb57bc7f6a58865",
+      "added": "2026-09-09T02:00:46+00:00"
     }
   ],
   "max_songs": 30
