@@ -1,5 +1,5 @@
 {
-  "seq": 33,
+  "seq": 34,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
@@ -55,6 +55,13 @@
       "size": 3794,
       "sha256": "ba37eb87f1485827b70df0aa0debcb74b6140b9fba9c2fbadd81054882c299b5",
       "added": "2026-09-09T05:27:10+00:00"
+    },
+    {
+      "id": "3ebbe7d305",
+      "title": "Levitating",
+      "size": 5404,
+      "sha256": "3ebbe7d305af0cd6c7e77e3d0b3ee5c39aea734691fe4773a4a5ced303ef276e",
+      "added": "2026-09-10T17:41:50+00:00"
     }
   ],
   "max_songs": 30
