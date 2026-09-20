@@ -1,5 +1,5 @@
 {
-  "seq": 36,
+  "seq": 37,
   "volume": 60,
   "tz": "CET-1CEST,M3.5.0,M10.5.0/3",
   "quiet": null,
@@ -69,6 +69,13 @@
       "size": 5984,
       "sha256": "6846a5a07926e8cdb6e64473e1b026261dc802a741dbe48629abb1f5315188d5",
       "added": "2026-09-10T17:54:31+00:00"
+    },
+    {
+      "id": "2058b0d4c2",
+      "title": "You're Beautiful",
+      "size": 1754,
+      "sha256": "2058b0d4c2ef7584528e32244034e6a332942bdeb9839e6cec2e096e59bc5174",
+      "added": "2026-09-20T17:48:28+00:00"
     }
   ],
   "max_songs": 30
